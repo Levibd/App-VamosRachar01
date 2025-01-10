@@ -18,7 +18,7 @@ O aplicativo permite que os usuários:
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Java** (ou a linguagem/framework que você utilizou).  
+- **Java**  
 - Kotlin    
 
 ---
