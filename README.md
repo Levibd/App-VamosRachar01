@@ -54,4 +54,4 @@ Este projeto é licenciado sob a **MIT License**. Consulte o arquivo `LICENSE` p
 
 ---
 
-Se precisar de mais alguma seção ou ajuste, é só pedir! 😊
+
